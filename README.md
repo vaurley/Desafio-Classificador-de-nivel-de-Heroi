@@ -1,2 +1,2 @@
-# Desafio-Classificador-de-n-vel-de-Her-i
+# Desafio-Classificador-de-nível-de-Herói
 Desafio Classificador de nível de Heroi
